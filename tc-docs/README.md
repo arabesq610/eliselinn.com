@@ -3,10 +3,13 @@ Developer Setup Guide
 
 I'm creating this guide because getting started can be overwhelming, and I wish it had existed when I first started. There are checkboxes next to each event so that you can keep track of your progress.
 
-1. First thing, head over to our [Python Development Environment](https://confluence.truecarcorp.com/display/PRODUCT/Python+Development+Environment) setup guide on [Confluence](https://confluence.truecarcorp.com/). [ ]
+1. First thing, head over to our [Python Development Environment](https://confluence.truecarcorp.com/display/PRODUCT/Python+Development+Environment) setup guide on [Confluence](https://confluence.truecarcorp.com/).
+- [ ] Done
 
-2. Install libevent. `$ brew install libevent
-
+2. Install libevent.
+```
+$ brew install libevent
+```
 
 This repository contains the following projects:
 
